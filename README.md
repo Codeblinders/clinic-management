@@ -26,7 +26,7 @@ clinic-management-system-direction/
 
 
 ```
-https://github.com/<your-username>/clinic-management-system-direction
+(https://github.com/Codeblinders/clinic-management)
 ```
 
 
@@ -171,7 +171,7 @@ To streamline communication between doctors and receptionists in a clinical sett
 
 ### 📎 GitHub Repository:
 
-> **URL:** [https://github.com/your-username/clinic-management-system-direction]((https://github.com/Codeblinders/clinic-management))
+> **URL:** [https://github.com/Codeblinders/clinic-management]((https://github.com/Codeblinders/clinic-management))
 
 ---
 
