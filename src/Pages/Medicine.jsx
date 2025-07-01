@@ -290,7 +290,7 @@ const [colDefs, setColDefs] = useState([
                 createdDate: currentDate,
                 updatedDate: currentDate,
             });
-            SweetAlert.Toast.Success({ title: ✅ "Data added successfully" });
+            SweetAlert.Toast.Success({ title:" ✅  Data added successfully" });
 
             setRowData((prevRowData) => {
                 return [
