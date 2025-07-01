@@ -290,7 +290,7 @@ const [colDefs, setColDefs] = useState([
                 createdDate: currentDate,
                 updatedDate: currentDate,
             });
-            SweetAlert.Toast.Success({ title: 'Thêm mới dữ liệu thành công' });
+            SweetAlert.Toast.Success({ title: ✅ "Data added successfully" });
 
             setRowData((prevRowData) => {
                 return [
@@ -309,7 +309,7 @@ const [colDefs, setColDefs] = useState([
                 ];
             });
         } catch (error) {
-            SweetAlert.Message.Error({ title: 'Tạo dữ liệu thất bại', text: error.message });
+            SweetAlert.Message.Error({ title: "server error", text: error.message });
         }
     };
 
